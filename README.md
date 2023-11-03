@@ -12,4 +12,5 @@
 
 Tableau dashbord - https://public.tableau.com/views/ArBnbDataanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-My Dashboard pic - ![Tableau Dashboard](https://github.com/Deepak05798/Airbnb-Analysis/assets/140487304/6082d037-8d25-401f-8437-507245812667)
+My Dashboard pic - ![Tableau dashboard](https://github.com/Deepak05798/Airbnb-Analysis/assets/140487304/2691f0e2-8835-427a-9de8-69c5a66c8be1)
+
