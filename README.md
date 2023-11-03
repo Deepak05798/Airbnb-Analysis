@@ -9,3 +9,5 @@
 5. create the streamlit web application with intractive dashboard showcasing the distrubution of aibnb listing and allows the user to explore the price, property type , room type, for each country and other factors
 6. analyze the price analysis and visualisation various data based on location, room type, property type, and avalability pattern
 7. build the comprehensive dashboard using tableau with various data analysis price based on locations, top property type, top  host by listing , average avalability of each country and  hotels with more bedrooms
+
+Tableau dashbord - https://public.tableau.com/views/ArBnbDataanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
