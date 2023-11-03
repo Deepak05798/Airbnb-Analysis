@@ -11,3 +11,5 @@
 7. build the comprehensive dashboard using tableau with various data analysis price based on locations, top property type, top  host by listing , average avalability of each country and  hotels with more bedrooms
 
 Tableau dashbord - https://public.tableau.com/views/ArBnbDataanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+My Dashboard pic - ![Tableau Dashboard](https://github.com/Deepak05798/Airbnb-Analysis/assets/140487304/6082d037-8d25-401f-8437-507245812667)
