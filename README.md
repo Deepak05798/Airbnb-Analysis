@@ -1,6 +1,6 @@
 # Airbnb-Analysis
 
-# WORKFLOW PF THE PROJECT
+# WORKFLOW OF THE PROJECT
 
 1. Establishing the mongodb connection and retriving the airbnb dataset
 2. to establish the mongodb before that sign in to mongodb atlas and cset up the cluster
