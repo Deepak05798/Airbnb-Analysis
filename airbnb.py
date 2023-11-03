@@ -22,12 +22,12 @@ with st.sidebar:
                                    "nav-link-selected": {"background-color": "#FF5A5F"}}
                           )
 #Creating ongodb connection
-Client = pymongo.MongoClient('mongodb+srv://2Ui6cTHnGhcaWgkJ:Deepak45321@cluster0.zndaxf0.mongodb.net/')
+Client = pymongo.MongoClient('Unique string connection')
 db = Client.sample_airbnb
 col = db.listingsAndReviews
 
 #Cleaned Data 
-df = pd.read_csv('C:/Users/deepa/Downloads/airbnb_data.csv')
+df = pd.read_csv('airbnb_data.csv')
 
 #home page
 
